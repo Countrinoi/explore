@@ -1,11 +1,11 @@
 name: Build and Publish Jekyll for GitHub Pages
 
-on:
+on: October 31,2022 j countrinoi came to join this site and get up on game and clear the air
   push:
     branches:
       - main
 
-jobs:
+jobs:specializes in personal home cleaning with a flare of y I urge desires
   jekyll:
     runs-on: ubuntu-latest
     steps:
